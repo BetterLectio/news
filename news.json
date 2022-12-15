@@ -1,6 +1,11 @@
 {"news": [
   {
     "date": "15/12/2022",
+    "title": "Vi har en Discord server 🥳",
+    "body": "På vores Discord server kan du rapportere fejl, snakke om Better Lectio og meget mere. Du kan finde den på https://betterlectio.dk/discord"
+  },
+  {
+    "date": "15/12/2022",
     "title": "betterlectio.dk er nu live! 🚀",
     "body": "Før hed vores hjemmeside betlec.netlify.app, men nu har vi fået vores eget domæne, og det er bare så fedt! 🥳"
   },
