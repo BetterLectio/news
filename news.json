@@ -1,12 +1,12 @@
 {"news": [
   {
-    "date": "2017-01-01",
-    "title": "Test Post",
-    "body": "This is a test post"
+    "date": "15/12/2022",
+    "title": "betterlectio.dk er nu live! 🚀",
+    "body": "før hed vores hjemmeside betlec.netlify.app, men nu har vi fået vores eget domæne, og det er bare så fedt! 🥳"
   },
   {
-    "date": "2017-01-02",
-    "title": "Test Post 2",
-    "body": "This is a test post 2"
+    "date": "9/12/2022",
+    "title": "opdatering af hjemmesiden",
+    "body": "i denne opdatering har vi lavet en masse småting, som gør hjemmesiden mere brugervenlig. Vi har også fikset en masse småfejl, som vi havde opdaget."
   }
 ]}
