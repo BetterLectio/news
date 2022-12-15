@@ -1,0 +1,12 @@
+{"news": [
+  {
+    "date": "2017-01-01",
+    "title": "Test Post",
+    "body": "This is a test post"
+  },
+  {
+    "date": "2017-01-02",
+    "title": "Test Post 2",
+    "body": "This is a test post 2"
+  }
+]}
