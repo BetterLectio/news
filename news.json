@@ -1,9 +1,16 @@
 {"news": [
   {
+    "date": "19/12/2022",
+    "title": "Opdatering af hjemmesiden",
+    "body": "Vi har i denne opdatering lavet en kæmpe opdatering af forsiden på hjemmesiden. Hvis at du løber ind i nogle problemer, så kan du rapportere dem på vores GitHub Vi håber, at du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger Better Lectio!",
+    "linkText": "Rappotér fejl",
+    "link": "https://github.com/BetterLectio/betterLectio/issues"
+  },
+  {
     "date": "15/12/2022",
     "title": "Vi har en Discord server 🥳",
-    "body": "På vores Discord server kan du rapportere fejl, snakke om Better Lectio og meget mere. Du kan finde den",
-    "linkText": "her",
+    "body": "På vores Discord-server kan du rapportere fejl, snakke om Better Lectio og meget mere. Du kan finde den",
+    "linkText": "Her",
     "link": "https://betterlectio.dk/discord"
   },
   {
