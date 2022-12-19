@@ -2,7 +2,9 @@
   {
     "date": "15/12/2022",
     "title": "Vi har en Discord server 🥳",
-    "body": "På vores Discord server kan du rapportere fejl, snakke om Better Lectio og meget mere. Du kan finde den på https://betterlectio.dk/discord"
+    "body": "På vores Discord server kan du rapportere fejl, snakke om Better Lectio og meget mere. Du kan finde den",
+    "linkText": "her",
+    "link": "https://betterlectio.dk/discord"
   },
   {
     "date": "15/12/2022",
