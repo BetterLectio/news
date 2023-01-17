@@ -7,37 +7,27 @@
   {
     "date": "17/01/2023",
     "title": "Sidebar og hastigheds opdatering",
-    "body": "I denne opdatering har vi lavet en ny sidebar, som er mere brugervenlig. Vi har også gjort hjemmesiden en del hurtigere, så du ikke skal vente så længe på at den indlæser. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger Better Lectio!"
+    "body": "I denne opdatering har vi lavet en ny sidebar, som er mere brugervenlig. Vi har også gjort hjemmesiden en del hurtigere, så du ikke skal vente så længe på at den indlæser. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger BetterLectio!"
   },
   {
     "date": "22/12/2022",
     "title": "Opdatering brugervenlighed",
-    "body": "Vi har i denne opdatering lavet lavet en masse små ændringer som gør hjemmesiden mere brugervenlig. Hvis at du løber ind i nogle problemer, så kan du rapportere dem på vores GitHub. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger Better Lectio!",
+    "body": "Vi har i denne opdatering lavet lavet en masse små ændringer som gør hjemmesiden mere brugervenlig. Hvis at du løber ind i nogle problemer, så kan du rapportere dem på vores GitHub. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger BetterLectio!",
     "linkText": "Rappotér fejl",
     "link": "https://github.com/BetterLectio/betterLectio/issues"
   },
   {
     "date": "19/12/2022",
     "title": "Opdatering af hjemmesiden",
-    "body": "Vi har i denne opdatering lavet en kæmpe opdatering af forsiden på hjemmesiden. Hvis at du løber ind i nogle problemer, så kan du rapportere dem på vores GitHub. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger Better Lectio!",
+    "body": "Vi har i denne opdatering lavet en kæmpe opdatering af forsiden på hjemmesiden. Hvis at du løber ind i nogle problemer, så kan du rapportere dem på vores GitHub. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger BetterLectio!",
     "linkText": "Rappotér fejl",
     "link": "https://github.com/BetterLectio/betterLectio/issues"
   },
   {
     "date": "15/12/2022",
     "title": "Vi har en Discord server 🥳",
-    "body": "På vores Discord-server kan du rapportere fejl, snakke om Better Lectio og meget mere. Du kan finde den",
+    "body": "På vores Discord-server kan du rapportere fejl, snakke om BetterLectio og meget mere. Du kan finde den",
     "linkText": "Her",
     "link": "https://betterlectio.dk/discord"
-  },
-  {
-    "date": "15/12/2022",
-    "title": "betterlectio.dk er nu live! 🚀",
-    "body": "Før hed vores hjemmeside betlec.netlify.app, men nu har vi fået vores eget domæne, og det er bare så fedt! 🥳"
-  },
-  {
-    "date": "9/12/2022",
-    "title": "Opdatering af hjemmesiden",
-    "body": "I denne opdatering har vi lavet en masse småting, som gør hjemmesiden mere brugervenlig. Vi har også fikset en masse småfejl, som vi havde opdaget."
   }
 ]}
