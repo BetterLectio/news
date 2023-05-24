@@ -1,5 +1,12 @@
 {"news": [
   {
+    "date": "24/05/2023",
+    "title": "Ny opdatering",
+    "body": "Efter den sidste store opdatering, er BetterLectio blevet meget hurtigere. Der er også blevet tilføjet AutoLogin, eksamener og standpunktskarakterer. Vi håber at, du vil nyde den nye opdatering af hjemmesiden. Forsæt god dag og tak fordi du bruger BetterLectio!",
+    "linkText": "Rappotér fejl",
+    "link": "https://github.com/BetterLectio/betterLectio/issues"
+  },
+  {
     "date": "10/03/2023",
     "title": "Hvilken feature vil du gerne se på BetterLectio?",
     "body": "Vi har lavet en lille undersøgelse, hvor vi gerne vil vide, hvilken feature du gerne vil se på BetterLectio. Du kan deltage i undersøgelsen ved at klikke på knappen herunder.",
