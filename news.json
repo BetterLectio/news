@@ -1,8 +1,13 @@
 {"news": [
   {
     "date": "14/09/2023",
-    "title": "Fejl på fravær siden⚠️",
-    "body": "pga. den nye opdatering af Lectio, så er fravær siden ikke tilgængelig på betterlectio lige nu. Vi arbejder på at få det fikset hurtigst muligt. Vi beklager ulejligheden. Du kan følge med i udviklingen på vores GitHub."
+    "title": "Fravær og opgave siden er nu fikset",
+    "body": "Vi har nu fikset problemet med fraværssiden og også et andet problem med opgavesiden som opstod pga. opdateringen af Lectio"
+  },
+  {
+    "date": "14/09/2023",
+    "title": "Fejl på fravær siden ⚠️",
+    "body": "Pga. den nye opdatering af Lectio, så er fravær siden ikke tilgængelig på BetterLectio lige nu. Vi arbejder på at få det fikset hurtigst muligt. Vi beklager ulejligheden. Du kan følge med i udviklingen på vores GitHub."
   },
   {
     "date": "10/03/2023",
