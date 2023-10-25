@@ -1,6 +1,11 @@
 {"news": [
   {
     "date": "10/10/2023",
+    "title": "Ny Google Kalender-synkronisering",
+    "body": "Oplev en opgraderet brugerflade og nye features med den nye Google Kalender-synkronisering"
+  },
+  {
+    "date": "10/10/2023",
     "title": "Nye sider",
     "body": "Vi har tilføjet spørgeskemaer og studieplan. Derudover har vi forbedret ledige lokaler værktøjet."
   },
